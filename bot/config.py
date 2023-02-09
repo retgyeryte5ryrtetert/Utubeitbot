@@ -11,8 +11,7 @@ class Config:
 
     API_HASH = os.environ.get("2efd1241218b944bd44bc08eb096276d")
 
-    CLIENT_ID = os.environ.get("905151919387-nrboqgg068p5pckvloo58jgbj4gsehcr.apps.googleusercontent.com
-")
+    CLIENT_ID = os.environ.get("905151919387-nrboqgg068p5pckvloo58jgbj4gsehcr.apps.googleusercontent.com")
 
     CLIENT_SECRET = os.environ.get("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")
 
